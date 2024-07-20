@@ -1,13 +1,4 @@
-Certainly! Here’s an enhanced version of your project README, including advanced command line instructions for PHP and Vue/Blade style fixes:
-
-```markdown
-# Project Title
-
-Hello Dev 🔥
-
-Laravel x11 Built with Vue.js 3x, Tailwind CSS x3.4, PRIMEVUE x4.0, and Vite
-
-Setup by Er Amit Gupta
+## Laravel x11 Built with Vue.js 3x, Tailwind CSS x3.4, PRIMEVUE x4.0, and Vite
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
