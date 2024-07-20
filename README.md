@@ -1,6 +1,6 @@
 ## Laravel x11 Built with Vue.js 3x, Tailwind CSS x3.4, PRIMEVUE x4.0, and Vite
 
-## Getting Started
+### Getting Started
 To get a local copy up and running, follow these simple steps.
 
 ### Installation
@@ -55,9 +55,3 @@ To fix Vue or Blade template coding style issues, run:
 npm run lint:fix
 ```
    ![Screenshot 2024-07-20 at 11 46 23 AM](https://github.com/user-attachments/assets/5e2b8d4c-b587-4931-90cf-5bbd0397d5df)
-
-## Usage
-
-Instructions on how to use the project once it is set up.
-
-Feel free to further modify the project title, prerequisites, installation instructions, usage, contributing guidelines, license, and contact information as per your project's requirements.
