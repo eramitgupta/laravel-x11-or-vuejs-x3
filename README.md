@@ -1,4 +1,3 @@
-Sure, here is the updated `README.md` file with Laravel command-line instructions added:
 
 ```markdown
 # Project Title
@@ -51,6 +50,9 @@ To get a local copy up and running follow these simple steps.
    ```sh
    php artisan serve
    ```
+
+   ![Screenshot 2024-07-20 at 11 46 23 AM](https://github.com/user-attachments/assets/5e2b8d4c-b587-4931-90cf-5bbd0397d5df)
+
 
 ## Usage
 
